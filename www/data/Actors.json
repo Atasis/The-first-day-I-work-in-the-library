@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"愛思特","characterIndex":0,"characterName":"愛思特","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"愛思特","traits":[],"initialLevel":1,"maxLevel":99,"name":"愛特絲","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"又","characterIndex":0,"characterName":"又","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"又","traits":[],"initialLevel":1,"maxLevel":99,"name":"雙燁","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"新管理員","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"新管理員","traits":[],"initialLevel":1,"maxLevel":99,"name":"新管理員","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"盧修斯","nickname":"","note":"","profile":""}
+]
